@@ -1,0 +1,7 @@
+{
+    "/ihm/*": {
+        "target": "https://armada.defensa.gob.es",
+        "secure": false,
+        "changeOrigin": true
+    }
+}

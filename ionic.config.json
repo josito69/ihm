@@ -1,5 +1,9 @@
 {
   "name": "appMareas",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "proxies": [{
+    "path": "/ihm/Documentacion/Mareas/son",
+    "proxyUrl": "https://armada.defensa.gob.es"
+}]
 }
